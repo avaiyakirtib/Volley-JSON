@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Volley Examples</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="btn_json">Json Request</string>
+        <string name="btn_jsonpost">Json Request POST</string>
+    
+    <string name="btn_string">String Request</string>
+    <string name="btn_image">Image Request</string>
+    
+    <string name="btn_json_obj_request">Json Object Request</string>
+    <string name="btn_json_array_request">Json Array Request</string>
+
+</resources>
